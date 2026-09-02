@@ -1,5 +1,8 @@
 * text=auto
 
+android/** -text
+ios/** -text
+
 *.so binary
 *.dylib binary
 *.dat binary
